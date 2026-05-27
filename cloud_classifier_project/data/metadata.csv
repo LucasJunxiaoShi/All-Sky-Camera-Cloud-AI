@@ -1,0 +1,13 @@
+filename,class_label,rain(true/false),daytime,notes
+sky_000001.jpg,medium_cloud,false,day,none
+sky_000002.jpg,high_cloud,false,day,none
+sky_000003.jpg,overcast,false,day,none
+sky_000004.jpg,overcast,false,day,none
+sky_000005.jpg,overcast,false,day,sun not visible
+sky_000006.jpg,overcast,false,day,sun glazing
+sky_000007.jpg,overcast,false,day,none
+sky_000008.jpg,overcast,false,day,sun not visible
+sky_000009.jpg,overcast,false,day,sun not visible
+sky_000010.jpg,overcast,true,day,rain-drop on dome
+sky_000011.jpg,medium_cloud,false,day,rain-drop on dome
+sky_000012.jpg,medium_cloud,false,day,rain-drop on dome
